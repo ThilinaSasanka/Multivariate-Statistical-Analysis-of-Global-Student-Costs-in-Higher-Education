@@ -1,6 +1,7 @@
 ### Multivariate-Statistical-Analysis-of-Global-Student-Costs-in-Higher-Education
 
 *Course Project – STA4053: Multivariate Methods II*
+
 ***Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook* 
 
 - Cleaned, transformed, and analyzed a dataset of 907 international students to identify key financial patterns in higher education costs.
